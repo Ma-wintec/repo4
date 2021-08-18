@@ -6,4 +6,7 @@ public class FirstClass {
         System.out.println("Hello Git Project!");
         System.out.println("Hello Git Project!");
     }
+    public void test(){
+        int i  = 0;
+    }
 }
